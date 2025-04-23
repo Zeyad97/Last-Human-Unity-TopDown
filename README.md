@@ -1,17 +1,25 @@
-🧟‍♂️ Last Human - Unity Top-Down Shooter
-Last Human is a top-down zombie shooter game made with Unity.
-You're the last surviving human on Earth, and your mission is to survive endless waves of zombies. Each zombie has different health levels, and they keep respawning. You only have 10 hits before it's game over!
 
-🎮 Features
-Endless waves of zombies 🧟
+🧟‍♂️ LAST HUMAN
+Top-Down Zombie Shooter made in Unity
+You are the last surviving human.
+Fight off endless waves of zombies in this thrilling top-down shooter.
+Can you survive 10 hits before they take you down?
 
-Top-down shooting mechanics 🔫
+🔥 Game Features
+🎮 Top-down shooting gameplay inspired by Brotato
 
-Different zombie types with varied health 💀
+🧟‍♂️ Zombies spawn infinitely with different health levels
 
-Simple hit system: 10 hits = death 💢
+❤️ You only get 10 hits — no health packs, no mercy
 
-Made entirely in Unity
+📱 Designed to work on mobile devices as well
+
+🧩 Gameplay Mechanics
+Move around freely
+
+Aim and shoot at zombies
+
+Try to stay alive as long as you can
 
 📂 Files
 Assets/ — All Unity assets
@@ -23,10 +31,3 @@ Scripts/ — Game logic written in C#
 README.md — You're reading it :)
 
 🚀 How to Play
-Use keyboard to move
-
-Mouse To Shoot zombies before they reach you
-
-Survive as long as possible
-
-Avoid getting hit 10 times
